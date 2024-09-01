@@ -23,7 +23,7 @@ public class Nilai {
     }
     
     void cetakNilai() {
-        System.out.println("NIM               : " + npm);
+        System.out.println("NPM               : " + npm);
         System.out.println("Nama              : " + nama);
         System.out.println("Nilai Absen [10%] : " + NilaiAbsen);
         System.out.println("Nilai Tugas [20%] : " + NilaiTugas);
