@@ -1,0 +1,21 @@
+package tugas_pertemuan_1_pbo;
+/**
+ *
+ * @author Syafiq Afifful Azmi
+ */
+public class MahasiswaBeraksi {
+    public static void main(String[] args) {
+        Mahasiswa mhs1 = new Mahasiswa();
+        Mahasiswa mhs2 = new Mahasiswa();
+        Mahasiswa mhs3 = new Mahasiswa();
+        
+        mhs1.nama = "Aamon";
+        mhs2.nama = "Fanny";
+        mhs3.nama = "Layla";
+           
+        mhs1.membaca();
+        mhs2.mencontek();
+        mhs3.modifikasi();
+    }
+    
+}
