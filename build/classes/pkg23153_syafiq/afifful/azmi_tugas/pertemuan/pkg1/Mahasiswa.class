@@ -1,9 +1,9 @@
 
-package pkg23153_syafiq.afifful.azmi_tugas.pertemuan.pkg1;
+package tugas_pertemuan_1_pbo;
 
 /**
  *
- * @author Acer
+ * @author Syafiq Afifful Azmi
  */
 public class Mahasiswa {
     String nama;
